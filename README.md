@@ -33,6 +33,10 @@
 
 <br>
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaevivin)](https://solved.ac/chaevivin)
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaevivin&show_icons=true&theme=dracula)
 
 </div>
