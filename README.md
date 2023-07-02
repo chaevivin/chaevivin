@@ -17,10 +17,12 @@
 
 <br>
 
+
+
 ### 🛠 Additional Tools 🛠
 
 <p>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe photoshop&logoColor=white"/>&nbsp <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe photoshop&logoColor=white"/>&nbsp <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>
 
 <br>
@@ -28,7 +30,7 @@
 ### 💗 How to contact me? 💗
 
 <p>
-    <a href="https://chaevivin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-efbec4?style=flat-square&logo=&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/chaevivin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://velog.io/@chaevivi" target="blank"><img src="https://img.shields.io/badge/Tech Blog-efbec4?style=flat-square&logo=&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/chaevivin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br>
